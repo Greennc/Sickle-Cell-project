@@ -37,7 +37,7 @@ strong {
   font-weight: bolder;
 }
 
-  span {
+  .navtabs {
     text-decoration: underline;
     color: white;
     font-weight: bolder;
