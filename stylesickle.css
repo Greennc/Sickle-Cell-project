@@ -1,5 +1,7 @@
 body {
 padding-bottom: 70px;
+background-color: black;
+color: white
 }
 
 .jumbotron {
@@ -8,17 +10,13 @@ background-size: cover;
 height: 50em;
 }
 
-body {
-background-color: black;
-color: white;
-}
 .container {
   padding-top: 70px;
 }
 
 nav {
     background-color: black;
-
+    
 
 }
 
@@ -38,7 +36,7 @@ strong {
   font-weight: bolder;
 }
 
-  .navtabs {
+  .tabs {
     text-decoration: underline;
     color: white;
     font-weight: bolder;
