@@ -9,7 +9,8 @@ height: 50em;
 }
 
 body {
-
+background-color: black;
+color: white;
 }
 .container {
   padding-top: 70px;
