@@ -1,5 +1,63 @@
+body {
+padding-bottom: 70px;
+}
+
+.jumbotron {
+background-image: url(https://4al52k24l8r51wpym5i46ltd-wpengine.netdna-ssl.com/wp-content/uploads/sites/2/2019/08/GettyImages-188057719-e1564707954285.jpg);
+background-size: cover;
+height: 50em;
+}
+
+body {
+
+}
+.container {
+  padding-top: 70px;
+}
+
+nav {
+    background-color: black;
+
+
+}
+
+h1 {
+  text-align: center;
+  font-size: 400%;
+  color: black;
+  padding-top: 250px;
+  font-weight: bold;
+
+
+  }
+
+
+strong {
+  color: #b83116;
+  font-weight: bolder;
+}
+
+  span {
+    text-decoration: underline;
+    color: #b83116;
+    font-weight: bolder;
+  }
+
+p {
+  text-align: justify;
+  width: 50%;
+
+}
+
 .celeb {
   width: 300px;
+  height: 400px;
+  float: left;
+  margin: 2.66%;
+}
+
+#tiki {
+  width: 350px;
   height: 400px;
   float: left;
   margin: 2.66%;
